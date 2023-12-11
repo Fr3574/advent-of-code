@@ -2,10 +2,6 @@
 Advent of Code 2023, Day 02
 """
 
-"""
-12 red cubes, 13 green cubes, and 14 blue cubes
-"""
-
 from math import prod
 
 LIMITATIONS = {
